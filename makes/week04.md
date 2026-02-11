@@ -1,8 +1,8 @@
 # Week 4 – Comic & Storytelling
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+This comic works to demonstrate the bias that race can play in script generation.
+![alt text](<Screenshot 2026-02-11 at 3.09.09 PM.png>)
 
 ## Process Notes
 How did you make this?
