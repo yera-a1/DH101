@@ -1,19 +1,16 @@
 # Week 7 – Mapping AI Worlds
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+![alt text](<Screenshot 2026-03-04 at 3.43.54 PM.png>)
 
 ## Process Notes
-How did you make this?
-What tools did you use?
-What decisions did you make?
+I began my mapping by going through and marking areas that contained large concentrations of data centers for both Meta and Amazon (On Google My Maps). I typically looked for areas that contained 8+ data centers (there are a few outliers however) and tried to spread out my data to account for all of America. The thing that I found, however, was that even with this consideration in mind, the data that is collected and seen in my map still went on to argue that large corporations decentralized their operations to locations, typically in the midwest, that offer large tax incentives, affordable energy and land, and cool climates that cut back cooling cost for their data centers. When looking at my map, over half of my data (locations) are concentrated in the midwest part of our country (or areas very similar in conditions). As previously mentioned, the reason for this is that the midwest hosts ideal benefits when it comes to data center construction, allowing for low building and operating costs. Another trend that I found was that Amazon, a larger company than Meta, was able to expand its operations outside of the Nation. This ties in with the reflection from this week, showing how increased demand for AI has warranted building of data centers across borders. If I had looked for mining sites in terms of corporate center location, I believe that they would appear on areas of the map that have benefits to production instead of investment, but I would not know which states these would be without further research. The way in which mapping connects to the reading in Introduction: Why Data Science Needs Feminism is that allows for transparency of trends surrounding AI construction, and allows for areas and peoples that are affected by such construction to be seen and heard. For example, the midwest area, where data centers are being predominantly built, might see increased energy prices and lower natural resource count as a result of construction. It is important to keep these considerations in mind to maintain an ethical development of A.I..
 
 ## Reflection
-Respond to this week’s reflection prompt in 200–300 words.
+We can see how AI reshapes global geographies of power, labor, and environment through its increasing importance in economic spheres worldwide. AI is a phenomenon that is not solely isolated to the United States, as more and more countries and their people are wanting and willing to incorporate this developing technology. This increased demand for this service increases labor, as more people are being employed to build and operate such technologies, as well as to further the research and development of said technology as well. There is also a power component to AI as well, as these AI need local datacenters to operate to their maximum capacities. This allows these AI companies to go overseas and to build in countries that need these local data centers, furthering their own reach. This, in turn, causes major environmental changes in areas where these centers are built, as it increases natural resources consumption exponentially. Overall, AI's increasing demand has reshaped and transformed the power, labor, and environmental dimensions of societies globally. 
 
 ## Attribution & AI Use
-- Tools used:
-- AI prompts (summary):
-- What AI generated:
-- What you changed or decided:
+- Tools used: Google My Maps
+- AI prompts (summary): None
+- What AI generated: N/A
+- What you changed or decided: N/A
