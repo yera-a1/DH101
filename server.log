@@ -1,1 +1,5 @@
 ::1 - - [23/Mar/2026 13:09:48] "HEAD /INDEX.HTML HTTP/1.1" 200 -
+::1 - - [23/Mar/2026 13:12:58] "GET /INDEX.HTML?id=2c6af488-137d-4784-bc95-e0d1ba7e8c37&vscodeBrowserReqId=1774285978922 HTTP/1.1" 200 -
+::1 - - [23/Mar/2026 13:12:59] "GET /assets/css/custom.css HTTP/1.1" 200 -
+::1 - - [23/Mar/2026 13:13:11] "GET /makes/week01.html HTTP/1.1" 200 -
+::1 - - [23/Mar/2026 13:13:15] "GET /makes/week08.html HTTP/1.1" 200 -
