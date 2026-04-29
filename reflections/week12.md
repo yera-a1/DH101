@@ -3,3 +3,6 @@
 # Week 12 Reflection
 
 Reflect 12: Is AI sustainable? What ecological trade-offs are we willing to accept?
+
+## Reflection
+AI in itself is not sustainable, but nothing on this earth truly is. When we look at sustainability on Earth, I feel it is most appropriate to look at the core value of economics, which is the allocation of limited resources to meet unlimited demand. The reason I feel as if this is important is because we live in a predominantly capitalist world, where forces and motivations nationwide and worldwide are driven by economic decisions. AI is the newest thing that is in, the newest trend that people are demanding, and therefore it is now see as more appropriate now then ever to allocate whatever necessary resources to meet said demand. This is inherently not sustainable, but we are tolerant to this fact due to our willingness to allocate more of our limited resources to this new and developing technology. Any water, electricity, or land being used is simply a byproduct of this tolerance.

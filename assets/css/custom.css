@@ -11,7 +11,8 @@
     --bg-secondary: #fafafa;
     --text-primary: #000;
     --text-secondary: #333;
-    --accent: #FA003F;
+    --accent: #CE1141;
+    --secondary: #4a4a4a;
     --dark-bg: #000;
     --light-text: #fff;
     --section-shadow: rgba(0,0,0,0.1);
@@ -23,7 +24,8 @@ body.dark-mode {
     --bg-secondary: #2d2d2d;
     --text-primary: #e8e8e8;
     --text-secondary: #b0b0b0;
-    --accent: #FF5580;
+    --accent: #FF6B7A;
+    --secondary: #a0a0a0;
     --dark-bg: #0f0f0f;
     --light-text: #e8e8e8;
     --section-shadow: rgba(0,0,0,0.3);
@@ -44,15 +46,39 @@ header {
     text-align: center;
     border-bottom: 3px solid var(--accent);
     transition: background-color var(--transition), border-color var(--transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.header-logo {
+    width: 80px;
+    height: auto;
+    color: var(--accent);
+}
+
+.header-logo circle,
+.header-logo path {
+    stroke: currentColor;
+    transition: stroke var(--transition);
+}
+
+.header-content {
+    flex: 1;
+    min-width: 200px;
 }
 
 header h1 {
     font-size: 3rem;
     margin-bottom: 0.5rem;
+    text-align: center;
 }
 
 header p {
     font-size: 1.2rem;
+    text-align: center;
 }
 
 nav {
@@ -225,4 +251,48 @@ img {
     color: var(--text-secondary);
     transition: color var(--transition);
     margin-bottom: 0.5rem;
+}
+
+/* Stats Grid Styles */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.stat-card {
+    background: linear-gradient(135deg, #CE1141, #4a4a4a);
+    color: var(--light-text);
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+body.dark-mode .stat-card {
+    background: linear-gradient(135deg, #FF6B7A, #666666);
+}
+
+.stat-number {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.stat-label {
+    font-size: 0.9rem;
+    opacity: 0.95;
+    letter-spacing: 0.5px;
+}
+
+#footer-note {
+    text-align: center;
+    font-size: 1.1rem;
 }
