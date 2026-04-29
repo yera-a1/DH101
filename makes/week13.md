@@ -1,7 +1,7 @@
 # Week 13 – Futures of AI & Humanity
 
 ## The Artifact
-![alt text](<Screenshot 2026-04-22 at 3.15.38 PM.png>)
+![alt text](../Images/Screenshot 2026-04-22 at 3.15.38 PM.png)
 ## Process Notes
 I used ChatGPT and Canva when designing my make.
 In my artifact, the future of June 1st, 2070, is being represented. It is a future that is technologically advanced, as indicated by the holodisplay and advanced doorframe. The idea being represented here is that humanity has ascended to a technological level that allows for the things present in the image. The artifact itself lies in the text on the holodisplay, showing an automated and A.I. written eviction notice. Normally, these notices are written and delivered by the landlords of the buildings directly to the tenants, requiring a certain level of human interaction to do so. But the trend that I wanted to show with my artifact that is being seen nowadays is the streamlining of certain human jobs and responsibilities with A.I., and here is a future being shown where this has been achieved, with respect to the responsibility of a landlord to serve an eviction notice being done by the A.I. In my artifact, it is assumed that A.I. has taken over a somewhat easy-to-achieve human task, in the name of either efficiency or to simply make human lives easier through automation and reducing workloads. In this case, the job of the landlord is not being taken or replaced, and A.I. only serves as a tool to serve the human. This is an important aspect of A.I. to point out in this case, as one of the main discourses that comes today in opposition to A.I. is how it could possibly replace human jobs. If A.I. is only serving as a tool, writing an automated response in this case, can one really oppose this optimization?
