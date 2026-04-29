@@ -1,8 +1,8 @@
 # Week 3 – Selfie & Identity
 
 ## The Artifact
-![alt text](<../Images/ChatGPT Image Feb 2, 2026 at 07_42_36 PM.png>)
-![alt text](<../Images/ChatGPT Image Feb 2, 2026 at 07_42_40 PM.png>)
+![alt text](../Images/ChatGPT_Image_Feb_2_2026_at_07_42_36_PM.png)
+![alt text](../Images/ChatGPT_Image_Feb_2_2026_at_07_42_40_PM.png)
 DALL·E was used to generate and modify both of these images.
 I uploaded an image and a prompt for the inital image generation, than an updated prompt to generate a second image.
 ## Reflection
