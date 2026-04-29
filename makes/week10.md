@@ -7,7 +7,7 @@ My game (made in Twine) is about a recent college graduate, who is now looking f
 
 
 ## Reflection
-N/A
+AI introduces an unreliable variable in the realm of play, rules, and narrative. The way in which AI responds to your inputs will vary drastically, and you can not account for what it will and will not follow. For example, say you want AI to follow a certain ruleset or narrative flow when asking to generate a prompt or data. Whether or not the AI generates something usable or ends up completely breaking is luck of the draw, as you do not know how it will end up reacting on any given day. This introduces a certain cautious relationship between AI and humans when it comes to the three aforementioned areas of interest, and overall makes for a more stressful and unpredictable scenario.
 
 ## Attribution & AI Use
 - Tools used: ChatGPT
