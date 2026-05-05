@@ -1,7 +1,7 @@
 # Week 1 – Reverse Engineering
 
 ## The Artifact
-![alt text](<Screenshot 2026-04-27 at 3.08.35 PM.png>)
+![alt text](<Screenshot 2026-04-27 at 3.08.35 PM-1.png>)
 ## Process Notes
 This week, I analyzed Photogrammar, an AI project dedicated to the mapping of photos across the United States from 1935 to 1944. 
 
